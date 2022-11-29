@@ -1,12 +1,14 @@
-## penguin-laptop-tools
+# penguin-laptop-tools
 
-Provides extra tools for laptops
+Source files for `penguin-laptop-tools` [PKGBUILD](https://github.com/penguin-fyi/pkgbuilds/blob/main/penguin-laptop-tools/PKGBUILD)
 
-### Depends
-* tlp
-* cbatticon
-* xorg-xbacklight
+## Depends
+- tlp
+- cbatticon
+- xorg-xbacklight
 
-### Autostart
-* cbatticon
+## Autostart
+- cbatticon
 
+## Scripts
+- usr/bin/touchpad-toggle
