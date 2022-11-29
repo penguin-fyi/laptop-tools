@@ -1,6 +1,6 @@
 # penguin-laptop-tools
 
-Source files for `penguin-laptop-tools` [PKGBUILD](https://github.com/penguin-fyi/pkgbuilds/blob/main/penguin-laptop-tools/PKGBUILD)
+Source files for `penguin-laptop-tools` [PKGBUILD](https://github.com/penguin-fyi/pkgbuilds/blob/main/penguin-laptop-tools/)
 
 ## Depends
 - tlp
